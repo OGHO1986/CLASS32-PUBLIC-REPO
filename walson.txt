@@ -9,6 +9,8 @@ pushing to remote
 
 add the alias of the repo
 egg
+you practice pull request.
+fill is making progress.
 
 git remote add https://github.com/OGHO1986/CLASS32-PUBLIC-REPO.git
 
